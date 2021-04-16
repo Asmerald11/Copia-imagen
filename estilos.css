@@ -39,11 +39,6 @@ html{
     margin-top: 10px;
     text-decoration: none;
     text-align: right;
-}
-
-.navegacion ul{
-    text-align: right;
-    list-style-type: none;
 } 
 
 .footer{
@@ -51,4 +46,18 @@ html{
     color: white;
     text-align: center;
     height: 30px;
+}
+
+.main{
+    width: 70%;
+    background: grey;
+
+}
+
+.div{
+    background: white;
+    width: 98%;
+    margin-left: 6px;
+    margin-right: 5px;
+    margin-top: 5px;
 }
