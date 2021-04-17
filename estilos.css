@@ -45,19 +45,41 @@ html{
     background: cornflowerblue;
     color: white;
     text-align: center;
-    height: 30px;
+    height: 40px;
+    margin-top: 5px;
 }
 
 .main{
-    width: 70%;
-    background: grey;
+    width: 80%;
+    background-color: grey;
+    padding: 8px;
 
 }
 
-.div{
-    background: white;
-    width: 98%;
-    margin-left: 6px;
-    margin-right: 5px;
-    margin-top: 5px;
+.titulo{
+    background-color: white;
+    padding: 5px;
+    text-align: left;
+}
+
+.desarrollo{
+    background-color: white;
+    padding: 5px;
+    text-align: center;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.cuadro{
+    text-align: left;
+    display: inline-block;
+    width: 45%;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.banner{
+    float: right;
+    text-align: left;
+    background-color: darkslategray;
+    padding: 35px;
 }
