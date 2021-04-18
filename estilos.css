@@ -44,9 +44,8 @@ html{
 .footer{
     background: cornflowerblue;
     color: white;
+    padding: 10px;
     text-align: center;
-    height: 40px;
-    margin-top: 5px;
 }
 
 .main{
@@ -64,7 +63,6 @@ html{
 
 .desarrollo{
     background-color: white;
-    padding: 5px;
     text-align: center;
     padding-top: 20px;
     padding-left: 20px;
@@ -79,7 +77,8 @@ html{
 
 .banner{
     float: right;
-    text-align: left;
-    background-color: darkslategray;
+    text-align: start;
+    background-color: lightgray;
     padding: 35px;
+    height: 150px;
 }
